@@ -1,4 +1,4 @@
-# okcupid
+# dating profiles
 
 A repository of online dating profiles I have written and used.
 
